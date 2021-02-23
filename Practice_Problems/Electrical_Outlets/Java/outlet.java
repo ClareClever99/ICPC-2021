@@ -9,5 +9,6 @@ class outlet {
             long a = sc.nextLong(), b = sc.nextLong();
             // solve test case and output answer
         }
+        sc.close();
     }
 }

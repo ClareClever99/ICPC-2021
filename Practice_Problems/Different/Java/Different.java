@@ -11,6 +11,7 @@ public class Different {
             long b = sc.nextLong();
             System.out.println(Math.abs(a - b));
         }
+        sc.close();
     }
 
 }
