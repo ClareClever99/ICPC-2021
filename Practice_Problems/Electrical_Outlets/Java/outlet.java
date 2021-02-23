@@ -1,7 +1,13 @@
 package Practice_Problems.Electrical_Outlets.Java;
 
-class HelloWorld {
+import java.util.*;
+
+class outlet {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Scanner sc = new Scanner(System.in);
+        while (sc.hasNextLong()) {
+            long a = sc.nextLong(), b = sc.nextLong();
+            // solve test case and output answer
+        }
     }
 }
