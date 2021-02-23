@@ -1,4 +1,4 @@
-package Practice_Problems.Hello_World.Java;
+package Practice_Problems.Electrical_Outlets;
 
 class HelloWorld {
     public static void main(String[] args) {
