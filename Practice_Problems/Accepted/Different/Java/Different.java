@@ -1,4 +1,4 @@
-package Practice_Problems.Passed.Different.Java;
+package Practice_Problems.Accepted.Different.Java;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Practice_Problems.Passed.Quadrant_Selection.Java;
+package Practice_Problems.Accepted.Quadrant_Selection.Java;
 
 import java.util.Scanner;
 

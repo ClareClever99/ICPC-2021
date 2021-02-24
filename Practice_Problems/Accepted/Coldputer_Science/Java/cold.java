@@ -1,4 +1,4 @@
-package Practice_Problems.Passed.Coldputer_Science.Java;
+package Practice_Problems.Accepted.Coldputer_Science.Java;
 
 import java.util.ArrayList;
 import java.util.Scanner;

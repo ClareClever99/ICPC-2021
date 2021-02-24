@@ -1,4 +1,4 @@
-package Practice_Problems.Passed.Solving_for_Carrots.Java;
+package Practice_Problems.Accepted.Solving_for_Carrots.Java;
 
 import java.util.Scanner;
 
