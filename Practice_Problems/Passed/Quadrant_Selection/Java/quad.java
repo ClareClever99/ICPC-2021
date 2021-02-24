@@ -1,4 +1,4 @@
-package Practice_Problems.Quadrant_Selection.Java;
+package Practice_Problems.Passed.Quadrant_Selection.Java;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class quad {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        while (sc.hasNextLine()) {
+        while (sc.hasNextLong()) {
             long x = sc.nextLong();
             long y = sc.nextLong();
             if (x > 0 && y > 0) {
