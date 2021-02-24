@@ -10,7 +10,7 @@ public class carrot {
             long contestants = sc.nextLong();
             long problemsSolved = sc.nextLong();
             for (int i = 0; i <= contestants; i++) {
-                String temp = sc.nextLine();
+                sc.nextLine();
             }
             System.out.println(problemsSolved);
         }
