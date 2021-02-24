@@ -1,4 +1,4 @@
-package Practice_Problems.Hello_World.Java;
+package Practice_Problems.Passed.Hello_World.Java;
 
 class HelloWorld {
     public static void main(String[] args) {
