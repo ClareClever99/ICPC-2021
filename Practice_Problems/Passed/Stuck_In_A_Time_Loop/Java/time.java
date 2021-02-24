@@ -1,4 +1,4 @@
-package Practice_Problems.Stuck_In_A_Time_Loop.Java;
+package Practice_Problems.Passed.Stuck_In_A_Time_Loop.Java;
 
 import java.util.Scanner;
 
