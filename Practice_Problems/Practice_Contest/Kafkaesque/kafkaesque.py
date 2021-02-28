@@ -9,11 +9,11 @@ loopCount = 1
 
 while(completedSigs < numSigs):
     currPos += 1
-    if currPos == 100:
+    if (currPos == 100 or sigs[completedSigs] < currPos):
         currPos = 1
         loopCount += 1
 
-    if currPos == sigs[completedSigs]:
+    if (currPos == sigs[completedSigs]):
         completedSigs += 1
 
 print(loopCount)
