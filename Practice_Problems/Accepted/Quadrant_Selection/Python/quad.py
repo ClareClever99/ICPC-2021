@@ -10,5 +10,4 @@ elif x < 0 and y < 0:
 elif x > 0 and y < 0:
     answer = 4
 
-
 print(answer)
