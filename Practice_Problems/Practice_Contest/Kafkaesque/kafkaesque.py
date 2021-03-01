@@ -1,4 +1,3 @@
-
 numSigs = int(input())
 sigs = []
 for i in range(numSigs):
