@@ -12,8 +12,6 @@ while (numTimes != -1):
     for i in range(numTimes):
         speedTimeList.append(input())
     for item in speedTimeList:
-        split = item.split()
-        speedList.append(split[0])
-        timeList.append(split[1])
+        split = item
     print(speedList, timeList)
     numTimes = int(input())
