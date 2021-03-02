@@ -8,6 +8,6 @@ for i in range(numLines):
     inputNumbers.append(input())
 
 for number in inputNumbers:
-    print()
+    print(type(number))
 
 print(inputNumbers)
