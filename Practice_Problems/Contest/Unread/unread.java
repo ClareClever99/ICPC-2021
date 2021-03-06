@@ -6,17 +6,13 @@ public class unread {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         String firstLine = sc.nextLine();
 
-        String[] arrOfStr = firstLine.split(" ");
+        int n = Integer.parseInt(firstLine.split(" ")[0]);
+        int m = Integer.parseInt(firstLine.split(" ")[1]);
 
-        int n = Integer.parseInt(arrOfStr[0]);
-        int m = Integer.parseInt(arrOfStr[1]);
         int[] lastIndex = new int[n];
-
-        for (int i = 0; i < lastIndex.length; i++) {
-            lastIndex[i] = 0;
-        }
 
         int unread = 0;
 
