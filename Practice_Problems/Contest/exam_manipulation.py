@@ -1,18 +1,15 @@
-initialinput = input()
+initialinput = input().split(" ")
 students = int(initialinput[0])
-questions = int(initialinput[2])
+questions = int(initialinput[1])
 
 tests = []
 
 for i in range(students):
     tests.append(input())
 
-grades = []
+grades = [1] * questions
 
-for i in range(questions):
-    grades.append(1)
-
-for i in range(1, len(tests)-1, 1):
+for i in range(1, len(tests), 1):
     for j in range(questions):
         if tests[i][j] != tests[i-1][j]:
             grades[j] = 0
