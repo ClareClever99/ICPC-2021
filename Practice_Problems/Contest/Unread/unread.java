@@ -1,4 +1,4 @@
-package Practice_Problems.Contest;
+package Practice_Problems.Contest.Unread;
 
 import java.util.Scanner;
 
